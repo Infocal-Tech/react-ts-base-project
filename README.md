@@ -1,14 +1,11 @@
-> PS: try this [new template](https://github.com/rizkimcitra/zippy-react) with file-based routing!
-
-# <p align="center">⚙️ Stravital</p>
+# <p align="center">⚙️ React TS Base Project</p>
 
 <p align="center">Kickstart your Web Application with React, Vite and Tailwind CSS.
-Stravital is my personal starter template to speed up my next react project.
 </p>
 
 ## Features
 
-Stravital is a minimalist starter template, it includes:
+This is a minimalist starter template, it includes:
 
 - ⚡️ Vite
 - ⚛️ React 18
@@ -24,12 +21,10 @@ Stravital is a minimalist starter template, it includes:
 ## Getting Started
 
 1. Clone this repository
-   to use this template, simply clone this repo or by using `use this template button` above.
-
-   Disclosure: by using this repository as a template, there will be an attribution on your repository.
+   to use this template, simply clone this repo.
 
    ```bash
-   git clone https://github.com/rizkimcitra/stravital
+   git clone https://github.com/Infocal-Tech/react-ts-base-project
    ```
 
 2. Install the dependencies
